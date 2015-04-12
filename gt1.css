@@ -1,5 +1,4 @@
-body {
-	/*margin: 0;*/
+body.index {
 	background-image: url(techteaching.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -46,10 +45,10 @@ nav ul li {
 }
 
 div.about {
-	width: 775px;
-	height: 270px;
+	width: 500px;
+	height: 370px;
 	border-radius: 25px;
-	margin: 80px 0 auto 300px;
+	margin: 120px 0 auto 440px;
 	background:rgba(230,230,230, 0.5);
 }
 
@@ -75,7 +74,7 @@ div.mission {
 	text-align: center;
 	font-size: 3em; 
 	width: 500px;
-	margin: 80px 0 180px 420px;
+	margin: 40px 0 120px 420px;
 	padding-top: 80px;
 }
 
@@ -97,10 +96,10 @@ div.content {
 	/*box-shadow: 2px 2px 1px #000000;*/
 	font-family: "PT Sans Narrow", sans-serif;
 	color: #000000;
-	font-weight: bold;
-	font-size: 16pt;
+	/*font-weight: bold;*/
+	font-size: 15pt;
 	padding-top: 2px;
-	margin-left: 370px;
+	margin-left: 360px;
 }
 
 .desc:link, .desc:hover, .desc:active, .desc:visited {
@@ -126,7 +125,7 @@ div.content {
 
 #newbutton {
 	display: inline-block;
-	margin: 5px 0 35px 535px;
+	margin: 5px 0 35px 545px;
 }
 
 .mybutton {
